@@ -1,2 +1,4 @@
 # OHOS-AOSP-details
-Some observations on open harmony
+Some observations on AOSP and Open Harmony OS related to performance, scheduling and memory use.
+
+
